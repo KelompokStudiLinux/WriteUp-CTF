@@ -1,0 +1,274 @@
+{
+    "data": {
+        "Binary Exploitation": [
+            {
+                "category": "Binary Exploitation", 
+                "description": "Do you know my dream? tell your dream first :P . \r\n\r\nThere is mystery function somewhere\r\n\r\n *author : g3nk_b4nk*\r\n\r\n[nc 128.199.158.188 1024](https://)\r\n\r\n[https://drive.google.com/drive/folders/1q3k7c0fDJ0WueOdeeIUQdiZMYFT9dTDR?usp=sharing](https://drive.google.com/drive/folders/1q3k7c0fDJ0WueOdeeIUQdiZMYFT9dTDR?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 96, 
+                "name": "Dream", 
+                "points": 495, 
+                "solves": 4
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "empty heart :(\r\n\r\n *author : g3nk_b4nk*\r\n\r\n[nc 94.237.68.111 1024](https://)\r\n\r\n[https://drive.google.com/drive/folders/1Bi4nbjMRxbWXqlesd6veOyo-bgQIG7ci?usp=sharing](https://drive.google.com/drive/folders/1Bi4nbjMRxbWXqlesd6veOyo-bgQIG7ci?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 97, 
+                "name": "Empty_heart", 
+                "points": 499, 
+                "solves": 3
+            }, 
+            {
+                "category": "Binary Exploitation", 
+                "description": "Salah satu pertimbangan Anda layak untuk masuk ke Telkom Indonesia sebagai security engineer adalah dengan menyelesaikan soal ini. Temukan flagnya maka kesempatan Anda untuk bekerja sebagai security engineer di Telkom Indonesia semakin besar.\r\n\r\n *author : nop*\r\n\r\n*Ubuntu 18.04*\r\n\r\n[nc 45.77.44.53 1024](https://)\r\n\r\n[https://drive.google.com/drive/folders/17o-vTMlI_5gscTIv8nVbBo88FA33Ssag?usp=sharing](https://drive.google.com/drive/folders/17o-vTMlI_5gscTIv8nVbBo88FA33Ssag?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 95, 
+                "name": "Welcome", 
+                "points": 461, 
+                "solves": 12
+            }
+        ], 
+        "Cryptography": [
+            {
+                "category": "Cryptography", 
+                "description": "Kamu adalah seseorang yang bekerja di PT Pama Persada.  Ditengah-tengah pekerjaan mu, seseorang teman datang dan berkata bahwa dia menemukan harta karun di salah satu lokasi penambangan. Tetapi dia tidak bisa memberitahukan lokasinya secara langsung, lalu berkata\r\n\r\n\"There is geometry in the humming of the strings, there is music in the spacing of the spheres. and at the end, you will find hamming is very useful\"\r\n\r\ndan memberikan sebuah lokasi titik koordinat\r\n\r\n1001111001000111100100011000001110111101101100000011000111100101011000001110101\r\n\r\ncarilah lokasi dari harta karun tersebut\r\n\r\n*author : BBCA*", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 86, 
+                "name": "Kode Rahasia", 
+                "points": 500, 
+                "solves": 2
+            }, 
+            {
+                "category": "Cryptography", 
+                "description": "Lihat jari jemari anda\r\n\r\nCipher : zeq3p1z}nr5[xL;\\sq2/7wjr7\\irf,hrg.jr7w;[dedr;r8p60x6e{\r\n\r\n*author : IA*", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 87, 
+                "name": "Dewan Kunci", 
+                "points": 100, 
+                "solves": 38
+            }, 
+            {
+                "category": "Cryptography", 
+                "description": "Seseorang berkata kepada saya mengenai kontrol dan cek , namun saya tidak paham apa yang dimaksud orang itu hmmm.\r\nNB : Flag terbagi menjadi 2 bagian\r\n\r\n*author : kosong*\r\n\r\n[nc 149.28.157.74 1024](https://)\r\n\r\n[https://drive.google.com/file/d/1diT3mgtDonIptdi25rdSpwuPsMG9cqmk/view?usp=sharing](https://drive.google.com/file/d/1diT3mgtDonIptdi25rdSpwuPsMG9cqmk/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 88, 
+                "name": "Can You Control This", 
+                "points": 500, 
+                "solves": 2
+            }, 
+            {
+                "category": "Cryptography", 
+                "description": "Ndak bisa bahasa enggres?\r\n\r\nXWZYYXWXYZXWZYYXYXYZXYXYWXYXYZXYXYYXWXXXXWXYXXYXYXXWXYXXWXWYXWZYYXWZXYXWYZXXWZWWXYXYXXWZZZXWZWXXWZYYXWZZZXWYZXXWZXXXWZYZXWZYZXWZXYXWXZY\r\n\r\n*author : nodoge*\r\n\r\n[https://drive.google.com/file/d/10wb8JcsnuNOtpk4Mgb8UaYPa44vsw_hU/view?usp=sharing](https://drive.google.com/file/d/10wb8JcsnuNOtpk4Mgb8UaYPa44vsw_hU/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 89, 
+                "name": "Big Dict", 
+                "points": 417, 
+                "solves": 16
+            }
+        ], 
+        "Feedback": [
+            {
+                "category": "Feedback", 
+                "description": "Halo Sobat ARA kami dari pihak panitia meminta Feedback kalian terhadap penyelenggaraan ARA 2021 kali ini. Terima kasih sobat ARA. \r\n\r\nhttps://intip.in/FeedbackCTFARA\r\n", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 94, 
+                "name": "Feedback", 
+                "points": 50, 
+                "solves": 27
+            }
+        ], 
+        "Forensic": [
+            {
+                "category": "Forensic", 
+                "description": "Not all treasure is silver and gold mate! let the ship flow from left to right\r\n\r\n*author : Christian Andrew*\r\n\r\n[https://drive.google.com/file/d/1UrhBRJ75Db_X6L5g5mh9yTLeFP5qcJ28/view?usp=sharing](https://drive.google.com/file/d/1UrhBRJ75Db_X6L5g5mh9yTLeFP5qcJ28/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 81, 
+                "name": "Jack Sparrow", 
+                "points": 427, 
+                "solves": 16
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "~Sekilas Info!! Tahukah kamu? Sebagai salah satu kontraktor penambangan batubara terbesar di dunia, PT Pama Persada memiliki kompetensi yang luas & pemahaman mendalam dalam hal pengembangan & operasi tambang batubara yang meliputi : Eksplorasi, perencanaan, persiapan infrastruktur, operasi penambangan, reklamasi dan re-vegetasi di area bekas tambang ~\r\n\r\n*author : BBCA*\r\n\r\n[https://drive.google.com/file/d/1cEsTsHwMHzCZYloJQ4ox2JSj-rl2ZvIg/view?usp=sharing](https://drive.google.com/file/d/1cEsTsHwMHzCZYloJQ4ox2JSj-rl2ZvIg/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "Sometimes the title and the image can give you a clue about what to do", 
+                    "Sometimes important stuff is hidden in the metadata of the image or the file"
+                ], 
+                "id": 82, 
+                "name": "Lihat Sebelah Barat", 
+                "points": 498, 
+                "solves": 3
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Pada suatu hari PT. Pama mendapatkan sebuah voice note yang sudah dirusak. Bantulah PT. Pama untuk memperbaiki file audio yang telah dirusak ini\r\n\r\n*author : danev*\r\n\r\nformat flag : ara2021{} (dalam huruf kecil)\r\n\r\n[https://drive.google.com/file/d/1qEWYxgvSnArG7jgL1iEJGSsmDO23GRBz/view?usp=sharing](https://drive.google.com/file/d/1qEWYxgvSnArG7jgL1iEJGSsmDO23GRBz/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 83, 
+                "name": "The Lady Sound", 
+                "points": 226, 
+                "solves": 29
+            }, 
+            {
+                "category": "Forensic", 
+                "description": "Seorang tersangka kejahatan digital suka memindahkan file sensitif dengan cara tradisional. Dengan cara yang tentu saja legal, kami berhasil mendapatkan rekam aktivitas pada komputernya pada sebuah transaksi data. Namun karena banyaknya hal yang dipasang pada komputernya, kami sedikit kesulitan mendapatkan informasi tentang file tersebut. Bisakah kalian menemukan apa yang dia sembunyikan?\r\n\r\n*author : spitfire*\r\n\r\n[https://drive.google.com/file/d/19JesgOKbkTOsr3bIRG7DoQeotr9nWkMh/view?usp=sharing](https://drive.google.com/file/d/19JesgOKbkTOsr3bIRG7DoQeotr9nWkMh/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 85, 
+                "name": "Hub", 
+                "points": 474, 
+                "solves": 10
+            }
+        ], 
+        "Misc": [
+            {
+                "category": "Misc", 
+                "description": "PT Pama Persada sedang membuat sayembara untuk memecahkan teka-teki yang mereka buat, cari tau siapa aku dan dia maka kamu akan menemukan harta karunya!\r\n\r\nAku merupakan website yang mulai viral pada tahun 2015, diciptakan oleh salah satu alumni dari kampus penyelenggara ARA CTF ini. Beritaku di upload di kanal its pada tanggal 11 januari 2016 aku senang sekali waktu itu.\r\n\r\nDia adalah judul lagu yang dinyanyikan oleh salah satu diva di Indonesia, dan mungkin keluargamu sering mendengarkannya di tv, kadang bercerita tentang karma.\r\n\r\nCoba ketik ini di halamannya mbahmu yang terkenal itu :\r\naku/dia\r\n\r\nMungkin lebih sopan untuk nulisnya huruf kecil semua\r\n\r\n*author : lambangaw*\r\n\r\nformat flag : ara2021{}", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 78, 
+                "name": "We Promise No shit!", 
+                "points": 280, 
+                "solves": 26
+            }, 
+            {
+                "category": "Misc", 
+                "description": "PT Pama Persada sedang melakukan pengeboran untuk mendapatkan mineral di lokasi penemuan mineral terbaru mereka.\r\nseorang engginer nya lalu berkata : We need to go deeper...\r\n\r\n*author : IA*\r\n\r\n[https://drive.google.com/file/d/1qgbFNX4oLVQzScgbPHtKFStMr1UOZzHf/view?usp=sharing](https://drive.google.com/file/d/1qgbFNX4oLVQzScgbPHtKFStMr1UOZzHf/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 79, 
+                "name": "0zip", 
+                "points": 101, 
+                "solves": 36
+            }, 
+            {
+                "category": "Misc", 
+                "description": "\"Omong-omong soal mentah, gue lagi ngotak-atik SD Card yang tadi jatuh di jalan, gue liat tadi RATA dong di jalan, terus nemu file ini. Gue ga bisa baca sih, tapi ya kayanya isinya menarik.\"\r\n\"Mas, ini warteg\"\r\n\r\n*author : spitfire*\r\n![warteg.jpg](/files/134b13efd5fe3dab9d69462fcdbfa965/warteg.jpg)\r\n\r\n[https://drive.google.com/drive/folders/1W1v93rQ-Kz87CxN5eOeVePtqJoLhlWZJ?usp=sharing](https://drive.google.com/drive/folders/1W1v93rQ-Kz87CxN5eOeVePtqJoLhlWZJ?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "Datanya bisa dibagi 3, kan? Foto wartegnya kayanya penting itu.", 
+                    "RGB"
+                ], 
+                "id": 80, 
+                "name": "Gordon", 
+                "points": 500, 
+                "solves": 2
+            }
+        ], 
+        "Reverse Engineering": [
+            {
+                "category": "Reverse Engineering", 
+                "description": "Qiqi adalah seorang zombie yang sering pelupa. Suatu hari ia membuat kodingan dalam bahasa C++ untuk membuat kode rahasia lokasi cocomilk. Namun beberapa saat kemudian dia lupa menulis kodingan tersebut dalam bahasa C++ dan menuliskannya dalam bahasa Python. Qiqi yang kebingungan mencoba menginputkan lokasi cocomilk tersebut dengan menjalankan kodingannya dalam bahasa C++ dan Python. Anehnya, kodingannya dapat berjalan dan menghasilkan Output 1 pada bahasa C++ dan Output 2 pada bahasa Python. Beberapa saat kemudian, Qiqi melupakan lokasi rahasia cocomilk yang barusan diinputkan. Bantu Qiqi untuk mendapatkan lokasi rahasia cocomilk miliknya!\r\n\r\n*author : Dz*\r\n\r\n[https://drive.google.com/file/d/1ac8nqKzrDFluw3SSpGN4g6A7OV4e3_4c/view?usp=sharing](https://drive.google.com/file/d/1ac8nqKzrDFluw3SSpGN4g6A7OV4e3_4c/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 90, 
+                "name": "cocomilk", 
+                "points": 342, 
+                "solves": 23
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "Waduh program untuk mengembalikan passwordku corrupt dan sekarang hanya hanya tersisa program untuk merahasiakan passwordku saja :( . Dapatkah kalian membantuku mengembalikan password akun moontoon ku supaya aku bisa bermain mobile legend lagi ? \r\n\r\nSecured password : e4 ff 9b c8 25 92 55  0 d4 85 6c ca  6 9b 4e  b\r\n\r\n *author : kosong*\r\n \r\n Flag : ara2021{password}\r\n\r\n[https://drive.google.com/file/d/1xU6nalKz0DiexZf2nbX6R8E5HBp78-s3/view?usp=sharing](https://drive.google.com/file/d/1xU6nalKz0DiexZf2nbX6R8E5HBp78-s3/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "key 1 <= 100.\nz3 will help with the rest"
+                ], 
+                "id": 91, 
+                "name": "Secure Password Manager v1", 
+                "points": 500, 
+                "solves": 0
+            }, 
+            {
+                "category": "Reverse Engineering", 
+                "description": "\"Pendekar pedang itu melompat ke belakang lawan dan berputar di udara sambil melepaskan serangan api dalam gerakan melingkar.\"\r\n\r\nKalian akan mendapatkan flag jika kalian mampu menemukan key yang tepat untuk melewati validasi!\r\n\r\n *author : kosong*\r\n\r\n[https://drive.google.com/file/d/1P2xfaH8xKkkkfGc41b73fH012Kt1RGTX/view?usp=sharing](https://drive.google.com/file/d/1P2xfaH8xKkkkfGc41b73fH012Kt1RGTX/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "Objdump"
+                ], 
+                "id": 93, 
+                "name": "Fire Wheel", 
+                "points": 500, 
+                "solves": 0
+            }
+        ], 
+        "Web Exploitation": [
+            {
+                "category": "Web Exploitation", 
+                "description": "Telkom Indonesia telah membuat website dimana didalamnya terdapat sebuah flag yang disembunyikan. Hmm sepertinya terdapat IP filtering di dalamnya\r\n\r\n *author : nop*\r\n\r\n[http://149.28.138.91:4444/](http://149.28.138.91:4444/)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 98, 
+                "name": "HOME", 
+                "points": 245, 
+                "solves": 29
+            }, 
+            {
+                "category": "Web Exploitation", 
+                "description": "untuk menguji kemampuan pentesting kamu, Telkom Indonesia memberikanmu sebuah website yang 'Not Secure'\r\n\r\n *author : Sulthon Nashir*\r\n\r\n[http://149.28.144.197](http://149.28.144.197)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 99, 
+                "name": "Not Secure", 
+                "points": 328, 
+                "solves": 22
+            }, 
+            {
+                "category": "Web Exploitation", 
+                "description": "Gunakan oven saat memanggang kue!\r\n\r\n *author : nodoge*\r\n\r\n[http://34.101.209.28](http://34.101.209.28)\r\n\r\n[https://drive.google.com/file/d/1a8xUcGSQRcW2d0WhJRV1tTcvV_CH-arc/view?usp=sharing](https://drive.google.com/file/d/1a8xUcGSQRcW2d0WhJRV1tTcvV_CH-arc/view?usp=sharing)", 
+                "files": [], 
+                "hints": [
+                    "-"
+                ], 
+                "id": 100, 
+                "name": "Oven", 
+                "points": 262, 
+                "solves": 27
+            }
+        ]
+    }, 
+    "title": "ARACTF 2021", 
+    "url": "https://aractf2021.tech"
+}
