@@ -1,0 +1,36 @@
+<?php
+
+class Token{
+    public $username;
+    public $password;
+}
+
+function flag($token){
+    $pass_verif = "\}Fr@!-a";
+    if($token->username == 'admin'){
+        if(strlen($token->password)>strlen($pass_verif)){
+            if(hash('sha256',$token->password) == hash('sha256',$pass_verif)){
+                
+            }
+            else{
+                echo 'Burn your oven';
+            }
+        }
+        else{
+            echo 'Baking in progress';
+        }
+    }
+    else{
+        echo 'No Flag for you. Sadge :(';
+    }
+}
+
+
+if(!isset($_COOKIE['bake_here'])){
+    setcookie('bake_here',$cookies);
+    echo "Preparing your oven ......";
+}
+else{
+    flag($_COOKIE['bake_here']);
+}
+?>
