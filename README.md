@@ -8,6 +8,7 @@
 </p>
 
 ## Write Up Collections
++ [CSC CTF](./CSCCTF/WU_NCW_CyberArena_Lu_mah_mending,_lah_kita) [pdf]
 + [Technofair 8](./Technofair8/CTF_TECHNOFAIR_8.0_CTF_Demi_IU.pdf) [pdf]
 + [ARACTF 2021](./ARACTF2021) [pdf + archive]
 + [Unity 2020](./Unity2020) [pdf]
